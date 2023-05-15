@@ -2,4 +2,5 @@
 exclude =
   migrations,
   manage.py,
-  settings.py
+  settings.py,
+  manage.py
